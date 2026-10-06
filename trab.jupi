@@ -1,0 +1,11 @@
+print ("hola mundo")
+>>> S = 'Spam'
+>>> len(S)
+>>> S[o]
+'S'
+>>> S[1]
+'p'
+print ("hola")
+s = 'Spam'
+len(S)
+
